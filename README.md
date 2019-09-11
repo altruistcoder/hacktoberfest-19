@@ -22,7 +22,7 @@ git clone https://github.com/<your-github-username>/Make-Pull-Requests
 git checkout -b <new-branch-name>
 ```
 
-4. Add your details in a file and name the file in the format of `<your-name>.md`. Add this file in the `Contributors` folder. 
+4. Add your details in a file and name the file in the format of "`<your-name>.md`". Add this file in the `Contributors` folder. 
 
 5. After you add your profile in the `Contributors` folder, make sure you append your name along with the link for your Github profile in `Contributors.md` file in the format given below. (Just replace **<name>** with your full name and **<your-username>** with your Github Username). This will help everyone know about your contributions.
 
