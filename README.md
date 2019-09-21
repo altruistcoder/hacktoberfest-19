@@ -22,15 +22,9 @@ git clone https://github.com/<your-github-username>/Make-Pull-Requests
 git checkout -b <new-branch-name>
 ```
 
-4. Add your details in a file and name the file in the format of "`<your-name>.md`". Add this file in the `Contributors` folder. 
+4. Perform any of the tasks given below to make your contributions. You can also perform both of the tasks separately if you want to make two PRs.
 
-5. After you add your profile in the `Contributors` folder, make sure you append your name along with the link for your Github profile in `Contributors.md` file in the format given below. (Just replace **<name>** with your full name and **<your-username>** with your Github Username). This will help everyone know about your contributions.
-
-```
-* [<name>](https://github.com/<your_github_username>)
-```
-
-6. Now, Add, Commit and Push your changes into github by running the following commands in sequential order.
+5. Now, Add, Commit and Push your changes into github by running the following commands in sequential order.
 
 ```
 git add .
@@ -40,11 +34,26 @@ git commit -m "Added My Details"
 git push origin <your-branch-name>.
 ```
 
-7. Create a Pull Request and wait for the pull request to get merged into the main repository.
+6. Create a Pull Request and wait for the pull request to get merged into the main repository.
 
-8. Voila! You have done your first pull request and your first contribution on github.
+7. Voila! You have done your first pull request and your first contribution on github.
 
 
 You can learn about Markdown Syntax [here](https://guides.github.com/features/mastering-markdown/).
 
+
+## Tasks
+
+#### 1. Add your Name
+
+- Append your name along with the link for your Github profile in `Contributors.md` file in the format given below. (Just replace **<name>** with your full name and **<your-username>** with your Github Username). This will help everyone know about your work & contributions.
+
+```
+* [<name>](https://github.com/<your_github_username>)
+```
+
+#### 2. Add your Profile.
+
+- Add your profile details in a file and name that file in the format of `Your_Name.md`. Add this file in the `Contributors` folder. You can specify anything about your self such as your skills, achievements, projects that you have worked on, your interests, etc.
+You can see a sample profile page format [here](https://github.com/altruistcoder/Make-Pull-Requests/blob/master/Contributors/Rishabh_Aggarwal.md).
 
