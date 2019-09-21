@@ -23,4 +23,4 @@
 
 
 
-* Note: This is sample format for making a profile page. You can add or remove any point of contents given here and you can also modify the Markdown as you want.
+**Note:** This is sample format for making a profile page. You can add or remove any point of contents given here and you can also modify the Markdown as you want.
