@@ -3,7 +3,7 @@
 -------
 ### Education
 
-- Details of your Education.
+- Lewis University B.S. Computer Science
 
 ### Skills
 
