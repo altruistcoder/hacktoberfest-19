@@ -8,3 +8,4 @@
 * [AJEET KUMAR RAI](https://github.com/ajeetrai707)
 * [Pedro Donato](https://github.com/PedroDCN)
 * [Ana Vasconcelos](https://github.com/anacarolinacv)
+* [Samuel Elbaz](https://github.com/raregamer)
