@@ -13,3 +13,4 @@
 * [Monika Rajput](https://github.com/monika0123)
 * [Ratika Sharma](https://github.com/ratikasharma123)
 * [Sakshi Verma](https://github.com/sakshi1234567)
+* [Felipe Siqueira](https://github.com/felipesqra)
