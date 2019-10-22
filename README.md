@@ -57,3 +57,8 @@ You can learn about Markdown Syntax [here](https://guides.github.com/features/ma
 - Add your profile details in a file and name that file in the format of `Your_Name.md`. Add this file in the `Contributors` folder. You can specify anything about your self such as your skills, achievements, projects that you have worked on, your interests, etc.
 You can see a sample profile page format [here](https://github.com/altruistcoder/Make-Pull-Requests/blob/master/Contributors/Rishabh_Aggarwal.md).
 
+
+#### 3. Add your Code.
+
+- Add any Code or Project files in any of the programming language as you feel comfortabe in. Add your code/project files in the `Miscellaneous` folder. It is recommended to make a new folder (in the Miscellaneous folder itself) in case if you are uploading multiple files.
+
