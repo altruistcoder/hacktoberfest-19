@@ -11,7 +11,7 @@
 
 ### Experience
 
-- Projects involving arduino.
+- Working in the field for 3.5 years in functional automation
 
 ### Interests
 
